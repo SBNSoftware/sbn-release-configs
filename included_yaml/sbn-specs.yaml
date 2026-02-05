@@ -1,0 +1,10 @@
+definitions:
+- specs_sbn:
+  - sbnalg %build_compiler
+  - sbnanaobj %build_compiler
+  - sbnd-data %build_compiler
+  - sbndata %build_compiler
+  - sbndaq-artdaq-core %build_compiler
+  - sbncode %build_compiler
+  - sbnobj %build_compiler
+  - sbndcode %build_compiler
