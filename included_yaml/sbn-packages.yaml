@@ -20,7 +20,7 @@ packages:
     - "@=v10_11_01_01"
   sbnobj:
     require:
-    - "@=v10_03_00"
+    - "@=10.03.00"
   sbndcode:
     require:
     - "@=10.11.01.01"
