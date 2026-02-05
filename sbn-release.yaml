@@ -11,9 +11,9 @@ spack:
 
   # SBNSoftware
   - path: https://raw.githubusercontent.com/SBNSoftware/sbn-release-configs/refs/heads/main/included_yaml/sbn-packages.yaml
-    sha256: 7211368334d7b1ce625ae12c78185fc703b54dcd61933e7e70433bfed0159e62
+    sha256: af548bec365347dce0bd28b93cf8cb616935bf38e412e104978791b4dca8453e
   - path: https://raw.githubusercontent.com/SBNSoftware/sbn-release-configs/refs/heads/main/included_yaml/sbn-specs.yaml
-    sha256: 036ea114507ee528216753c19bb1abef513bbf2d23508e0e01792d62bccf5f9c
+    sha256: 4177e283bdc216f8a807fe89a08949d3eb91693265c235f299db22eeed82632f
 
   # LArSoft
   - path: https://raw.githubusercontent.com/LArSoft/larsoft-release-configs/refs/heads/main/included_yaml/larsoft-packages.yaml

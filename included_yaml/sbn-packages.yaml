@@ -2,16 +2,16 @@ packages:
   # SBN packages
   sbnalg:
     require:
-    - "@=v10_11_01_01"
+    - "@=10.11.01.01"
   sbnanaobj:
     require:
-    - "@=v10_00_12"
+    - "@=10.00.12"
   sbnd-data:
     require:
-    - "@=v01_36_00"
+    - "@=01_36_00"
   sbndata:
     require:
-    - "@=v01_08"
+    - "@=01_08"
   sbndaq-artdaq-core:
     require:
     - "@=v1_10_06"
@@ -23,4 +23,4 @@ packages:
     - "@=v10_03_00"
   sbndcode:
     require:
-    - "@=v10_11_01_01"
+    - "@=10.11.01.01"
