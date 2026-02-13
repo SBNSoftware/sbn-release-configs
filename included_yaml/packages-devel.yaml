@@ -1,0 +1,26 @@
+packages:
+  # SBN packages
+  sbnalg:
+    require:
+    - "@develop"
+  sbnanaobj:
+    require:
+    - "@develop"
+  sbnd-data:
+    require:
+    - "@develop"
+  sbndata:
+    require:
+    - "@develop"
+  sbndaq-artdaq-core:
+    require:
+    - "@develop"
+  sbncode:
+    require:
+    - "@develop"
+  sbnobj:
+    require:
+    - "@develop"
+  sbndcode:
+    require:
+    - "@develop"
