@@ -6,12 +6,6 @@ packages:
   sbnanaobj:
     require:
     - "@develop"
-  sbnd-data:
-    require:
-    - "@develop"
-  sbndata:
-    require:
-    - "@develop"
   sbndaq-artdaq-core:
     require:
     - "@develop"
