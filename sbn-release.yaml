@@ -11,7 +11,7 @@ spack:
 
   # SBNSoftware
   - path: https://raw.githubusercontent.com/SBNSoftware/sbn-release-configs/refs/heads/main/included_yaml/sbn-packages.yaml
-    sha256: af548bec365347dce0bd28b93cf8cb616935bf38e412e104978791b4dca8453e
+    sha256: 7dfabe7c0897789a921e485a013c7a625c0a4075458f1d4407615d81dde6f505
   - path: https://raw.githubusercontent.com/SBNSoftware/sbn-release-configs/refs/heads/main/included_yaml/sbn-specs.yaml
     sha256: 4177e283bdc216f8a807fe89a08949d3eb91693265c235f299db22eeed82632f
 

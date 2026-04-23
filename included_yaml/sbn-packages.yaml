@@ -2,13 +2,13 @@ packages:
   # SBN packages
   sbnalg:
     require:
-    - "@=10.11.01.01"
+    - "@=10.20.03"
   sbnanaobj:
     require:
-    - "@=10.00.12"
+    - "@=10.20.03"
   sbnd-data:
     require:
-    - "@=01_36_00"
+    - "@=01_42_00"
   sbndata:
     require:
     - "@=01_08"
@@ -17,10 +17,10 @@ packages:
     - "@=v1_10_06"
   sbncode:
     require:
-    - "@=v10_11_01_01"
+    - "@=v10_20_03"
   sbnobj:
     require:
-    - "@=10.03.00"
+    - "@=10.20.03"
   sbndcode:
     require:
-    - "@=10.11.01.01"
+    - "@=10.20.03"
