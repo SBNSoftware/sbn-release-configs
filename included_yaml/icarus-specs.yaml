@@ -1,0 +1,5 @@
+definitions:
+- specs_icarus:
+  - icarusalg %build_compiler
+  - icarus-signal-processing %build_compiler
+  - icaruscode %build_compiler

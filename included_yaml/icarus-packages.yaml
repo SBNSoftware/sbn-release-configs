@@ -1,0 +1,14 @@
+packages:
+  # Icarus packages
+  icarusalg:
+    require:
+    - "@=10.20.03"
+  icarus-signal-processing:
+    require:
+    - "@=10.20.03"
+  icaruscode:
+    require:
+    - "@=10.20.03"
+  icarus-data:
+    require:
+    - "@=10.20.03"
