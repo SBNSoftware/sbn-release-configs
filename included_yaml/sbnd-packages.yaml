@@ -1,0 +1,8 @@
+packages:
+  # SBND packages
+  sbnd-data:
+    require:
+    - "@=01_42_00"
+  sbndcode:
+    require:
+    - "@=10.20.03"

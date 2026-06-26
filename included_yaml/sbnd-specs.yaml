@@ -1,0 +1,3 @@
+definitions:
+- specs_sbnd:
+  - sbndcode %build_compiler
