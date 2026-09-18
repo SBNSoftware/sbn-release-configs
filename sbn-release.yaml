@@ -38,8 +38,8 @@ spack:
   - git: https://github.com/SBNSoftware/sbn-release-configs
     tag: sbn-10.26.00
     paths:
-    - included_yaml/sbn_packages.yaml
-    - included_yaml/sbn_specs.yaml
+    - included_yaml/sbn-packages.yaml
+    - included_yaml/sbn-specs.yaml
 
   specs:
   - $specs_art
