@@ -2,22 +2,22 @@ packages:
   # SBN packages
   sbnalg:
     require:
-    - "@=10.20.03"
+    - "@=10.26.00"
   sbnanaobj:
     require:
-    - "@=10.20.03"
+    - "@=10.26.00"
   sbndata:
     require:
-    - "@=01_08"
+    - "@=01.10"
   sbndaq-artdaq-core:
     require:
-    - "@=v1_10_06"
+    - "@=1.10.06"
   sbncode:
     require:
-    - "@=v10_20_03"
+    - "@=10.26.00"
   sbnobj:
     require:
-    - "@=10.20.03"
+    - "@=10.23.00"
   py-srproxy:
     require:
     - "@=00.45"
