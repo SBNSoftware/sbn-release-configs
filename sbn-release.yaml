@@ -53,7 +53,7 @@ spack:
     reuse:
       from:
       - type: environment
-        path: /cvmfs/larsoft.opensciencegrid.org/spack-fnal-v1.1.1/var/spack/environments/larsoft-v10_26_00-unified-cuda-python-3_11-trimmed-rc1
+        path: /cvmfs/larsoft.opensciencegrid.org/spack-fnal-v1.1.1/var/spack/environments/larsoft-v10_26_00-unified-cuda-python-3_11-trimmed-rc2
   view: false
   packages:
     all:
@@ -68,9 +68,9 @@ spack:
       - cxxstd=17
       target:
       - x86_64_v3
-    gcc:
-      require:
-      - target=x86_64_v3
+    #gcc:
+    #  require:
+    #  - target=x86_64_v3
     python:
       require:
       - '@:3.11'
