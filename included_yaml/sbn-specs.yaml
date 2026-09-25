@@ -5,4 +5,3 @@ definitions:
   - sbndaq-artdaq-core %build_compiler
   - sbncode %build_compiler
   - sbnobj %build_compiler
-  - py-srproxy %build_compiler
