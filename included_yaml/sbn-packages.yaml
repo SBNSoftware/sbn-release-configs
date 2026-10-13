@@ -2,10 +2,10 @@ packages:
   # SBN packages
   sbnalg:
     require:
-    - "@=10.26.00"
+    - "@=10.27.00"
   sbnanaobj:
     require:
-    - "@=10.26.00"
+    - "@=10.27.00"
   sbndata:
     require:
     - "@=01.10"
@@ -14,10 +14,10 @@ packages:
     - "@=1.10.06.01"
   sbncode:
     require:
-    - "@=10.26.00"
+    - "@=10.27.00"
   sbnobj:
     require:
-    - "@=10.23.00"
+    - "@=10.27.00"
   py-srproxy:
     require:
     - "@=00.45"

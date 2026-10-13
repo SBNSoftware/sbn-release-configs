@@ -18,7 +18,7 @@ spack:
   # Packages defintions.
   # These are version and variant requirements for a package suite
   - git: https://github.com/LArSoft/larsoft-release-configs
-    tag: larsoft-10.26.00
+    tag: larsoft-10.27.00
     paths:
     - included_yaml/larsoft-packages.yaml
     - included_yaml/larsoft-specs.yaml
@@ -36,7 +36,7 @@ spack:
     - included_yaml/fife_specs.yaml
 
   - git: https://github.com/SBNSoftware/sbn-release-configs
-    tag: sbn-10.26.00
+    tag: sbn-10.27.00
     paths:
     - included_yaml/sbn-packages.yaml
     - included_yaml/sbn-specs.yaml
@@ -53,7 +53,7 @@ spack:
     reuse:
       from:
       - type: environment
-        path: /cvmfs/larsoft.opensciencegrid.org/spack-fnal-v1.1.1/var/spack/environments/larsoft-v10_26_00-unified-cuda-python-3_11-trimmed-rc2
+        path: /cvmfs/larsoft.opensciencegrid.org/spack-fnal-v1.1.1/var/spack/environments/larsoft-v10_27_00-unified-cuda-python-3_11-trimmed-rc2
   view: false
   packages:
     all:
